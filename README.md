@@ -1,4 +1,8 @@
 # DrmTools
+Nota:
+luego de hacer el git clone, puede requerir:
+sudo pip install protobuf
+
 
 ## PSSH decoder
 
